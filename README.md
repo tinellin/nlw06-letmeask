@@ -110,11 +110,7 @@ $ cd nlw06-letmeask
 ### 💻 Inicializar o App
 
 - Instale as dependências necessárias, executando em seu terminal na pasta do projeto: ```yarn``` ou ```npm run```
-- Pronto! Agora você pode iniciar o app, executando:
-
-```bash
-$ yarn start 
-```
+- Pronto! Agora você pode iniciar o app, executando: ```yarn start``` ou ```npm start```
 
 - O app estará disponível localmente no seu navegador pelo endereço http://localhost:3000.
 
