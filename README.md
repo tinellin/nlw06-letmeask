@@ -13,7 +13,7 @@
   <img alt="Made by Enzo Tinelli" src="https://img.shields.io/badge/made%20by-Enzo Tinelli-%2304D361?color=525dcb">
 	
   
-  <a href="https://github.com/gmorae/letmeask/commits/master">
+  <a href="https://github.com/tinellin/nlw06-letmeask/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tinellin/nlw06-letmeask?color=525dcb">
   </a>
 
