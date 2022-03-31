@@ -5,7 +5,7 @@
    Next Level Week Together 👨🏻‍🚀 🚀
 </h3>
 
-<p align="center">Cancel changes
+<p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tinellin/nlw06-letmeask?color=525dcb">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tinellin/nlw06-letmeask?color=525dcb">
